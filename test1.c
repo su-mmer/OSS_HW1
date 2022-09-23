@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int i = 100;
-	int j = 200;
+	int i = 500;
+	int j = 600;
 	return 0;
 }
